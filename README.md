@@ -1,14 +1,14 @@
 flatbuffer vs json:
 ===================
 
-Upsides of flatbuffer:
+###Upsides of flatbuffer:
 =====================
 
 * Data integrity by using static typing
 * Faster than interpreted formats i.e. json
 * True random access like json
 
-Sample run:
+###Sample run:
 ==========
 
 ```
