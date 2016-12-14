@@ -1,0 +1,10 @@
+namespace dcpevent;
+
+table Mutation {
+  key:string;
+  value:string;
+  cas:ulong;
+  ttl:ulong;
+}
+
+root_type Mutation;
